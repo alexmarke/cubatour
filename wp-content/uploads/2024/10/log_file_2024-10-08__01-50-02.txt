@@ -1,0 +1,130 @@
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/cubatour
+Data file = C:\xampp\htdocs\cubatour/wp-content/uploads/2024/10/travel-booking.xml
+Widget file = C:\xampp\htdocs\cubatour/wp-content/uploads/2024/10/travel-booking.wie
+Customizer file = C:\xampp\htdocs\cubatour/wp-content/uploads/2024/10/travel-booking-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[ERROR] Failed to import "icon1" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "pexels-photo-558454-1" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+WP Travel Engine Sidebar : 
+
+Search - No Title - Imported
+WP Travel Engine: Category List - Trip Types - Imported
+WP Travel Engine: Category List - Destinations - Imported
+WP Travel Engine: Category List - Activities - Imported
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+Navigation Menu - Quick Links - Imported
+Image - Trip advisor - Imported
+WP Travel Engine: Recent Posts - Recent Posts - Imported
+
+About Section : 
+
+Text - Welcome to travel booking - Imported
+WP Travel Engine: Icon Text Widget - Award winning company - Imported
+WP Travel Engine: Icon Text Widget - Local Experts - Imported
+WP Travel Engine: Icon Text Widget - Trusted Payments - Imported
+WP Travel Engine: Icon Text Widget - Local Experts - Imported
+WP Travel Engine: Icon Text Widget - Trusted Payments - Imported
+WP Travel Engine: Icon Text Widget - Award winning company - Imported
+
+Call to Action One Section : 
+
+WP Travel Engine: Call To Action Widget - Customize Your Trip - Imported
+
+Call to Action Two Section : 
+
+WP Travel Engine: Call To Action Widget - A Great Way To Start Vacation - Imported
+
+Footer One : 
+
+Text - Travel Magazine - Imported
+
+Footer Two : 
+
+WP Travel Engine: Recent Posts - Recent Posts - Imported
+
+Footer Three : 
+
+Navigation Menu - Quick Links - Imported
+
+Footer Four : 
+
+WP Travel Engine: Contact Widget - Contact Info - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
